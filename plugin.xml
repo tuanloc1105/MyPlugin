@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <name>MyPlugin</name>
     <js-module name="MyPlugin" src="www/MyPlugin.js">
-        <clobbers target="cordova.plugins.MyPlugin" />
+        <clobbers target="MyPlugin" />
     </js-module>
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
