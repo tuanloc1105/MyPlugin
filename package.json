@@ -1,0 +1,27 @@
+{
+  "name": "my.cordova.plugin",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "my.cordova.plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanloc1105/MyPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Loc Vo Tuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanloc1105/MyPlugin/issues"
+  },
+  "homepage": "https://github.com/tuanloc1105/MyPlugin#readme",
+  "description": ""
+}
